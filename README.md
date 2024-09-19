@@ -1,4 +1,4 @@
-# 🌟 Exercícios de Programação Orientada a Objetos (POO) em Java 🌟
+# 🌟 Exercícios de Programação Orientada a Objetos em Java 🌟
 
 ## Introdução
 Este projeto contém uma série de exercícios de **Programação Orientada a Objetos (POO)** desenvolvidos em **Java** utilizando o **Eclipse IDE**. Cada método presente no código exemplifica a aplicação de conceitos básicos de programação, como controle de fluxo, cálculo aritmético, uso de laços e operações com entradas do usuário.
